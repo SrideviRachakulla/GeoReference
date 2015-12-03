@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.raghuveer.georeference" >
+    package="com.example.ActivityRemainder.georeference" >
 
     <uses-permission android:name="android.permission.ACCESS_GPS" />
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
@@ -14,8 +14,8 @@
     <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
 
     <permission android:protectionLevel="signature"
-        android:name="com.example.raghuveer.georeference.permission.C2D_MESSAGE" />
-    <uses-permission android:name="com.example.raghuveer.georeference.permission.C2D_MESSAGE" />
+        android:name="com.example.ActivityRemainder.georeference.permission.C2D_MESSAGE" />
+    <uses-permission android:name="com.example.ActivityRemainder.georeference.permission.C2D_MESSAGE" />
 
     <application
         android:name=".UseParse"
