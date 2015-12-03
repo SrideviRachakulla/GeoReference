@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\sridevi\Downloads\GeoReference\GeoReference\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="C:\Users\sridevi\Downloads\GeoReference\GeoReference\app\build\intermediates\pre-dexed\debug\classes-3fea40c9ef21a7f1bacc7c5d1995ba65b611f58b.jar" />
+    </item>
+    <item
+        jar="C:\Users\sridevi\Downloads\GeoReference\GeoReference\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="C:\Users\sridevi\Downloads\GeoReference\GeoReference\app\build\intermediates\pre-dexed\debug\classes-31f843a55c35766dcf0f0d725f22d853e8e0adfd.jar" />
+    </item>
+    <item
+        jar="C:\Users\sridevi\Downloads\GeoReference\GeoReference\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\sridevi\Downloads\GeoReference\GeoReference\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-91063990ab515f0848de38639031ed4b587b6dd4.jar" />
+    </item>
+    <item
+        jar="C:\Users\sridevi\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.11.0\6592129dec2caa8791d322c7e4b6b7a30e8eadae\parse-android-1.11.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6592129dec2caa8791d322c7e4b6b7a30e8eadae">
+        <dex dex="C:\Users\sridevi\Downloads\GeoReference\GeoReference\app\build\intermediates\pre-dexed\debug\parse-android-1.11.0-00de26a76e3267d61b4ad9c46b9227ea7c9b5996.jar" />
+    </item>
+    <item
+        jar="C:\Users\sridevi\Downloads\GeoReference\GeoReference\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="C:\Users\sridevi\Downloads\GeoReference\GeoReference\app\build\intermediates\pre-dexed\debug\classes-bf88455bbb50937983bc757578761c5b796b887b.jar" />
+    </item>
+    <item
+        jar="C:\Users\sridevi\Downloads\GeoReference\GeoReference\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="C:\Users\sridevi\Downloads\GeoReference\GeoReference\app\build\intermediates\pre-dexed\debug\classes-186bdd57a9fd887a3d51d1faf9dd2d49a3555491.jar" />
+    </item>
+    <item
+        jar="C:\Users\sridevi\Downloads\GeoReference\GeoReference\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\sridevi\Downloads\GeoReference\GeoReference\app\build\intermediates\pre-dexed\debug\classes-01ae91f592a891859b0a6b370163324759bff23a.jar" />
+    </item>
+    <item
+        jar="C:\Users\sridevi\Downloads\GeoReference\GeoReference\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="C:\Users\sridevi\Downloads\GeoReference\GeoReference\app\build\intermediates\pre-dexed\debug\classes-d3c3daeeab3951836700d3f5044f707218705d1d.jar" />
+    </item>
+    <item
+        jar="C:\Users\sridevi\Downloads\GeoReference\GeoReference\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="C:\Users\sridevi\Downloads\GeoReference\GeoReference\app\build\intermediates\pre-dexed\debug\classes-445e79a1339e1bd6c2a5d772eb89f86197796170.jar" />
+    </item>
+    <item
+        jar="C:\Users\sridevi\Downloads\GeoReference\GeoReference\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="C:\Users\sridevi\Downloads\GeoReference\GeoReference\app\build\intermediates\pre-dexed\debug\classes-da8be4660ae5280b99e488b32f16e15d79ca3f15.jar" />
+    </item>
+    <item
+        jar="C:\Users\sridevi\Downloads\GeoReference\GeoReference\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="C:\Users\sridevi\Downloads\GeoReference\GeoReference\app\build\intermediates\pre-dexed\debug\classes-6a342eddb0fd9ad30e8d7d6de038264886030f16.jar" />
+    </item>
+    <item
+        jar="C:\Users\sridevi\Downloads\GeoReference\GeoReference\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="C:\Users\sridevi\Downloads\GeoReference\GeoReference\app\build\intermediates\pre-dexed\debug\classes-5ed0247f907e1657e94de77eee8b6152687c0c76.jar" />
+    </item>
+    <item
+        jar="C:\Users\sridevi\android-sdks\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\sridevi\Downloads\GeoReference\GeoReference\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-b2c7708983398fe71315b642e88a1484896dbbce.jar" />
+    </item>
+    <item
+        jar="C:\Users\sridevi\Downloads\GeoReference\GeoReference\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="C:\Users\sridevi\Downloads\GeoReference\GeoReference\app\build\intermediates\pre-dexed\debug\classes-467f216cc3711a4272219b7e59579d58b1b6a3e1.jar" />
+    </item>
+    <item
+        jar="C:\Users\sridevi\Downloads\GeoReference\GeoReference\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="C:\Users\sridevi\Downloads\GeoReference\GeoReference\app\build\intermediates\pre-dexed\debug\classes-747240eb1d72a1a9d188042283341b8386aa301e.jar" />
+    </item>
+    <item
+        jar="C:\Users\sridevi\Downloads\GeoReference\GeoReference\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="C:\Users\sridevi\Downloads\GeoReference\GeoReference\app\build\intermediates\pre-dexed\debug\classes-7e28fbd7bec1090b52aa0925694242543ad44bd4.jar" />
+    </item>
+    <item
+        jar="C:\Users\sridevi\Downloads\GeoReference\GeoReference\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\sridevi\Downloads\GeoReference\GeoReference\app\build\intermediates\pre-dexed\debug\classes-f267549899f77cda291e99848a9b6639b0e707a4.jar" />
+    </item>
+    <item
+        jar="C:\Users\sridevi\Downloads\GeoReference\GeoReference\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\sridevi\Downloads\GeoReference\GeoReference\app\build\intermediates\pre-dexed\debug\classes-009f168744036a89a9a10d6810bf84e959471262.jar" />
+    </item>
+    <item
+        jar="C:\Users\sridevi\Downloads\GeoReference\GeoReference\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="C:\Users\sridevi\Downloads\GeoReference\GeoReference\app\build\intermediates\pre-dexed\debug\classes-59586b5ebd1a63d7bea89051414090b9ecf64977.jar" />
+    </item>
+    <item
+        jar="C:\Users\sridevi\Downloads\GeoReference\GeoReference\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="C:\Users\sridevi\Downloads\GeoReference\GeoReference\app\build\intermediates\pre-dexed\debug\classes-dfbdaa27b09e133047216760604834e96caa780b.jar" />
+    </item>
+    <item
+        jar="C:\Users\sridevi\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\sridevi\Downloads\GeoReference\GeoReference\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-48af16aa624d40773917723913c945571a015bb3.jar" />
+    </item>
+    <item
+        jar="C:\Users\sridevi\Downloads\GeoReference\GeoReference\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\Users\sridevi\Downloads\GeoReference\GeoReference\app\build\intermediates\pre-dexed\debug\classes-8722d7415a555dd35cb46d70632f65073666fbde.jar" />
+    </item>
+    <item
+        jar="C:\Users\sridevi\Downloads\GeoReference\GeoReference\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="C:\Users\sridevi\Downloads\GeoReference\GeoReference\app\build\intermediates\pre-dexed\debug\classes-70507b298e899a0d5272e1e31f2e58de01551519.jar" />
+    </item>
+    <item
+        jar="C:\Users\sridevi\Downloads\GeoReference\GeoReference\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="C:\Users\sridevi\Downloads\GeoReference\GeoReference\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-2eaeb58ecc0e1b71cca2a3296636623cf686be16.jar" />
+    </item>
+    <item
+        jar="C:\Users\sridevi\Downloads\GeoReference\GeoReference\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="C:\Users\sridevi\Downloads\GeoReference\GeoReference\app\build\intermediates\pre-dexed\debug\classes-ea1d6724b719a7344bca1c0563bf6ebfc66f16ea.jar" />
+    </item>
+    <item
+        jar="C:\Users\sridevi\Downloads\GeoReference\GeoReference\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="C:\Users\sridevi\Downloads\GeoReference\GeoReference\app\build\intermediates\pre-dexed\debug\classes-34a61542d7d2b654568dc691e552a98aac08f4ff.jar" />
+    </item>
+    <item
+        jar="C:\Users\sridevi\Downloads\GeoReference\GeoReference\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="C:\Users\sridevi\Downloads\GeoReference\GeoReference\app\build\intermediates\pre-dexed\debug\classes-729dacaf3fbba7b230897340e0a34e2a01dd507b.jar" />
+    </item>
+    <item
+        jar="C:\Users\sridevi\Downloads\GeoReference\GeoReference\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="C:\Users\sridevi\Downloads\GeoReference\GeoReference\app\build\intermediates\pre-dexed\debug\classes-1ca8cc2d174be74bf4658335edc934e89684174c.jar" />
+    </item>
+    <item
+        jar="C:\Users\sridevi\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.3.0\8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c\bolts-tasks-1.3.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c">
+        <dex dex="C:\Users\sridevi\Downloads\GeoReference\GeoReference\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.3.0-9af5a77b765724bce7068da6c5a13d89e91c1ef5.jar" />
+    </item>
+    <item
+        jar="C:\Users\sridevi\Downloads\GeoReference\GeoReference\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="C:\Users\sridevi\Downloads\GeoReference\GeoReference\app\build\intermediates\pre-dexed\debug\classes-6a1f8a6c84c8b6bf563f6fd14cf71347edccb327.jar" />
+    </item>
+    <item
+        jar="C:\Users\sridevi\Downloads\GeoReference\GeoReference\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="C:\Users\sridevi\Downloads\GeoReference\GeoReference\app\build\intermediates\pre-dexed\debug\classes-7ad4dfa7e4f0566c1ee965a29c0985addcc1121f.jar" />
+    </item>
+
+</items>
